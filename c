@@ -21,7 +21,7 @@ if [ -z "$editor" ]; then
 fi
 
 
-if [ -z "$1" ]; thens
+if [ -z "$1" ]; then
   target_dir="."
 else
   target_dir="$1"
