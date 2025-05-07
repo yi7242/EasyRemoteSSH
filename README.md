@@ -2,6 +2,10 @@
 [日本語README](README.ja.md)
 
 
+https://github.com/user-attachments/assets/dece5b89-88ea-44fa-9865-9738d80b8e14
+
+
+
 ## Overview
 This is a tool to make SSH connections easier with VSCode. When you run the `c` command in a remote SSH environment, the VSCode (or Cursor, etc.) connection command is automatically copied to your clipboard. This makes connecting from your local machine to the remote environment simple.
 
